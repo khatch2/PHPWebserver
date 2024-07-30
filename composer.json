@@ -1,9 +1,14 @@
 {
-	"autoload":
-	{
-		"psr-4": 
-		{
-			"ClanCats\\Station\\PHPServer\\": "src/"	
-		}
-	}
+    "name": "24khsh/php-webserver",
+    "autoload": {
+        "psr-4": {
+            "24khsh\\PhpWebserver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khatch shah"
+        }
+    ],
+    "require": {}
 }
